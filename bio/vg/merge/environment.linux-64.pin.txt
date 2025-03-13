@@ -1,5 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
+# created-by: conda 24.9.2
 @EXPLICIT
-https://conda.anaconda.org/bioconda/linux-64/vg-1.55.0-h9ee0642_0.tar.bz2#449e8ff1e1b6a48389f203fb32cf7ffe
+https://conda.anaconda.org/bioconda/linux-64/vg-1.63.1-h9ee0642_0.tar.bz2#77ebadde6db1edb754c1391f803cb3ab
